@@ -1,8 +1,7 @@
 package com.hapifive.myfristcapplication
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import com.hapifive.myfristcapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
